@@ -23,7 +23,7 @@ export default function Home() {
         <h1 className='italic text-xl'>Worshiping God in Spirit & Truth (John 4:24)</h1>
         <div className='flex'>
           <Carousel>
-            {formattedSlides}  
+            {formattedSlides}
           </Carousel>
         </div>
       </main>
