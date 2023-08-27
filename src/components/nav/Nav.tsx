@@ -13,6 +13,12 @@ const Nav = () => {
         <Link href='/contact'>
             CONTACT US
         </Link>
+        <Link href='/newsletter'>
+            NEWSLETTER
+        </Link>
+        <Link href='/meet'>
+            MEET THE CONGREGATION
+        </Link>
     </div>
   )
 }
