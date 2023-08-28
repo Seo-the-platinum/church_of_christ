@@ -2,7 +2,7 @@ import React from 'react'
 
 const EventAlbums = () => {
   return (
-    <div>Event Albums</div>
+    <div className='w-screen'>Event Albums</div>
   )
 }
 

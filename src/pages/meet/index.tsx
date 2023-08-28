@@ -2,7 +2,7 @@ import React from 'react'
 
 const Meet = () => {
   return (
-    <div>Meet The Congregation</div>
+    <div className='w-screen'>Meet The Congregation</div>
   )
 }
 

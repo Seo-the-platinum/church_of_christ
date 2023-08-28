@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const About= () => {
   return (
-    <div className='flex flex-col items-center'>
+    <div className='flex flex-col items-center w-screen'>
         <h1 className='text-xl italic'>
             And I say unto thee, that thou art Peter, and upon this rock I will build church and the gates of hell shall not prevail against it.
             (Matthew 16:18)
